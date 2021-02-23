@@ -38,6 +38,8 @@ function displayTemperature(response)
     
 }
 
+
+
 function search(city)
     {
 let apiKey="5bee267bee9b93771611ea21812bd265";
